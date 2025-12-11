@@ -1,0 +1,9 @@
+pyramid
+waitress          # Server untuk menjalankan Pyramid di Windows/Local
+SQLAlchemy        # ORM Database
+psycopg2-binary   # Driver PostgreSQL
+requests          # Untuk HTTP Request ke Hugging Face
+google-generativeai # SDK Google Gemini
+python-dotenv     # Untuk keamanan API Key
+cornice           # Helper membuat REST API di Pyramid
+zope.sqlalchemy
