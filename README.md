@@ -1,4 +1,4 @@
-# Tugas Pertemuan 3 (123140184)
+# Tugas Individu 3 (123140184)
 
 Buat aplikasi Product Review Analyzer dengan fitur:
 
