@@ -10,7 +10,7 @@ Antarmuka pengguna (User Interface) modern yang dibangun menggunakan **React** d
 
 - **Responsive Design:** Tampilan otomatis menyesuaikan layar Desktop (Layout Horizontal) dan Mobile (Layout Vertikal).
 - **Real-time Feedback:** Indikator loading saat AI sedang memproses data.
-- **Dynamic Styling:** Badge warna (Hijau/Merah/Biru) berubah otomatis sesuai hasil sentimen [cite: 667-668].
+- **Dynamic Styling:** Badge warna (Hijau/Merah/Biru) berubah otomatis sesuai hasil sentimen.
 - **History Log:** Menampilkan riwayat analisis sebelumnya yang diambil dari database.
 
 ## Teknologi yang Digunakan
