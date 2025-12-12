@@ -9,8 +9,8 @@ Backend service ini dibangun menggunakan framework **Python Pyramid** yang berfu
 ## Fitur Utama
 
 - **Sentiment Analysis (Offline/Local):** Menggunakan library `transformers` dan model `distilbert-base-uncased-finetuned-sst-2-english` yang berjalan di lokal (CPU). Tidak bergantung pada kuota API eksternal untuk sentimen.
-- [cite_start]**Text Summarization:** Integrasi dengan Google Gemini (`gemini-2.5-flash`) untuk mengekstrak poin-poin penting dari ulasan [cite: 821, 858-859].
-- [cite_start]**Database Storage:** Menyimpan riwayat analisis ke database PostgreSQL menggunakan SQLAlchemy ORM[cite: 823, 830].
+- **Text Summarization:** Integrasi dengan Google Gemini (`gemini-2.5-flash`) untuk mengekstrak poin-poin penting dari ulasan.
+- **Database Storage:** Menyimpan riwayat analisis ke database PostgreSQL menggunakan SQLAlchemy ORM.
 - **RESTful API:** Menyediakan endpoint JSON untuk konsumsi Frontend.
 
 ## Teknologi yang Digunakan
